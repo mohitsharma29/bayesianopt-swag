@@ -1,7 +1,7 @@
 # Course Project for Bayesian ML
 Tuning SWAG weights using Bayesian Optimization.
 You can find the Original Readme below.
-
+Original Repo: https://github.com/izmailovpavel/understandingbdl
 
 # Bayesian Deep Learning and a Probabilistic Perspective of Generalization
 
